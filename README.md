@@ -62,7 +62,9 @@ In the twelfth Notebook, *Large Multimodal Model*, we use one pre-trained LMM, P
 
 In the thirteenth Notebook, *Statistical Tests*, we perform Wilcoxon tests and McNemar tests. 
 
-In the fourteenth Noteboook, *Tables and Figures*, we visualize the results. 
+In the fourteenth Notebook, *Tables and Figures*, we visualize the results. 
+
+Finally, we conduct a series of supplementary analyses: cross-validation (Notebooks 15-22), multi-channel prediction for large language models (Notebooks 23-25), and regions of interest (Notebooks 26-27). 
 
 ### Results
 
@@ -102,7 +104,7 @@ Working toward the creation of a multimodal foundation model for neuroscience, i
 
 ### Structure and Environment
 
-This first extension (X1) of Neuropolis includes fourteen Notebooks, to be run in order:
+This first extension (X1) of Neuropolis includes fourteen Notebooks (followed by a series of supplementary Notebooks), to be run in order:
 
 1. fMRI Preprocessing
 2. EEG Preprocessing
